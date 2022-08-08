@@ -1,2 +1,2 @@
 # github.labs
-its for august 1 batcg
+its for august 1 batch
